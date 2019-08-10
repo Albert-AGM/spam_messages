@@ -1,2 +1,2 @@
-# spam_messages
-In this project I create a model to predict if a message is spam or not.
+# SPAM OR NOT SPAM?
+In this project we will predict if a message is spam or not.
